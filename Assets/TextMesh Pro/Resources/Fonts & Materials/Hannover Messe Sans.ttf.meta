@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a28b26056f80e3147b11e1d22bd14bea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hannover Messe
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1639e8ab8771c0449ef35e859df30ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
